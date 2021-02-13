@@ -25,11 +25,16 @@ To check that the site is running well, navigate to phpMyAdmin folder http://loc
 File Structure & Code Breakdown
 
 Database Management Systems (DBMS):
+
 * MySQL
 * phpMyAdmin
+
 Server:
+
 * PHP
+
 Client:
+
 * HTML & CSS
 * JavaScript
 
