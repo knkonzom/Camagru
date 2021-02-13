@@ -60,7 +60,7 @@ includes:
 * signup.inc.php
 * update.inc.php
 stickers:
-* frame1.png Ð frame13.png
+* frame1.png ï¿½ frame13.png
 root folder files:
 * author
 * comments.php
@@ -77,7 +77,6 @@ root folder files:
 * update_password.php
 
 
-
 Running Camagru
 
 Start Web Server:
@@ -85,3 +84,14 @@ Start Web Server:
 * Open browser & navigate to http://localhost:8080/Camagru. You will find the landing page.
 Create, verify and login to account:
 * Enter your credentials here, wait for verification email once complete. Once received verification email, click on the link and verify your account. Once verified, navigate to Login page.
+Upload, capture & edit images:
+* Once logged in, you should be able to access the editor page where you will be able to either capture an image using the webcam or upload an image from the desktop.
+* Once an image is captured you are then able to add stickers to it and preview the image before saving it. You are also able to add stickers to an image you upload yourself.
+* In the gallery you can view your images or the images of other users. You can remove your images in your personal gallery if you wish to do so, under the profile section.
+* In the gallery you can also like and comment other usersÕ images. This is only reserved for someone who is registered.
+Change user credentials:
+	* In the profile menu, users are able to modify their name, email address and passwords.
+Compatibility:
+	* App is compatible with Firefox & Chrome.
+Administration:
+	* Admin users can access the backend of the site by visiting http://localhost:8080/phpmyadmin. There, users can enter the security credentials to gain access to the databases. Users are able to view all the databases, and in the Camagru database users will be able to see all active accounts on the site. The password is encrypted for security.
