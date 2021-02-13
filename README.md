@@ -34,93 +34,46 @@ Client:
 * JavaScript
 
 File Structure:
+		config:
+			* database.php
+			* setup.php
 
-<<<<<<< HEAD
-config:
-* database.php
-* setup.php
+		functions:
+			* php_user_functions.php
+			* webcam.js
+		gallery_images:
+			* [images from gallery]
 
-functions:
-* php_user_functions.php
-* webcam.js
-gallery_images:
-* [images from gallery]
+		images:
+			* [images]
 
-images:
-* [images]
-
-includes:
-* activate.inc.php
-* comments.inc.php
-* activate.inc.php
-* comments_notification.inc.php
-* delete_img.inc.php
-* forgotten_password.inc.php
-* image_save.inc.php
-* login.inc.php
-* signup.inc.php
-* update.inc.php
-stickers:
-* frame1.png ÔøΩ frame13.png
-root folder files:
-* author
-* comments.php
-* editor.php
-* footer.php
-* forgotten_password.php
-* gallery.php
-* header.php
-* index.php
-* profile.php
-* signup.php
-* style.css
-* update.php
-* update_password.php
-=======
-    config:
-    * database.php
-    * setup.php
-
-    functions:
-    * php_user_functions.php
-    * webcam.js
-
-    gallery_images:
-    * [images from gallery]
-
-    images:
-    * [images]
-
-    includes:
-    * activate.inc.php
-    * comments.inc.php
-    * activate.inc.php
-    * comments_notification.inc.php
-    * delete_img.inc.php
-    * forgotten_password.inc.php
-    * image_save.inc.php
-    * login.inc.php
-    * signup.inc.php
-    * update.inc.php
-    stickers:
-    * frame1.png - frame13.png
-
-   root folder files:
-
-    * author
-    * comments.php
-    * editor.php
-    * footer.php
-    * forgotten_password.php
-    * gallery.php
-    * header.php
-    * index.php
-    * profile.php
-    * signup.php
-    * style.css
-    * update.php
-    * update_password.php
->>>>>>> b525a9f60a56a5156ad7b1fbbe94356573fe2435
+		includes:
+			* activate.inc.php
+			* comments.inc.php
+			* activate.inc.php
+			* comments_notification.inc.php
+			* delete_img.inc.php
+			* forgotten_password.inc.php
+			* image_save.inc.php
+			* login.inc.php
+			* signup.inc.php
+			* update.inc.php
+		stickers:
+			* frame1.png - frame13.png
+		root folder files:
+			* author
+			* comments.php
+			* editor.php
+			* footer.php
+			* forgotten_password.php
+			* gallery.php
+			* header.php
+			* index.php
+			* profile.php
+			* signup.php
+			* style.css
+			* update.php
+			* update_password.php
 
 
 Running Camagru
@@ -134,7 +87,7 @@ Upload, capture & edit images:
 * Once logged in, you should be able to access the editor page where you will be able to either capture an image using the webcam or upload an image from the desktop.
 * Once an image is captured you are then able to add stickers to it and preview the image before saving it. You are also able to add stickers to an image you upload yourself.
 * In the gallery you can view your images or the images of other users. You can remove your images in your personal gallery if you wish to do so, under the profile section.
-* In the gallery you can also like and comment other users’ images. This is only reserved for someone who is registered.
+* In the gallery you can also like and comment other users√ï images. This is only reserved for someone who is registered.
 Change user credentials:
 	* In the profile menu, users are able to modify their name, email address and passwords.
 Compatibility:
