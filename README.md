@@ -34,10 +34,11 @@ Client:
 * JavaScript
 
 File Structure:
+		
 		config:
 			* database.php
 			* setup.php
-
+			
 		functions:
 			* php_user_functions.php
 			* webcam.js
@@ -79,15 +80,15 @@ File Structure:
 Running Camagru
 
 Start Web Server:
-* Launch MAMP/XAMPP, start all servers.
-* Open browser & navigate to http://localhost:8080/Camagru. You will find the landing page.
-Create, verify and login to account:
-* Enter your credentials here, wait for verification email once complete. Once received verification email, click on the link and verify your account. Once verified, navigate to Login page.
-Upload, capture & edit images:
-* Once logged in, you should be able to access the editor page where you will be able to either capture an image using the webcam or upload an image from the desktop.
-* Once an image is captured you are then able to add stickers to it and preview the image before saving it. You are also able to add stickers to an image you upload yourself.
-* In the gallery you can view your images or the images of other users. You can remove your images in your personal gallery if you wish to do so, under the profile section.
-* In the gallery you can also like and comment other usersÕ images. This is only reserved for someone who is registered.
+	* Launch MAMP/XAMPP, start all servers.
+	* Open browser & navigate to http://localhost:8080/Camagru. You will find the landing page.
+	Create, verify and login to account:
+	* Enter your credentials here, wait for verification email once complete. Once received verification email, click on the link and verify your account. Once verified, navigate to Login page.
+	Upload, capture & edit images:
+	* Once logged in, you should be able to access the editor page where you will be able to either capture an image using the webcam or upload an image from the desktop.
+	* Once an image is captured you are then able to add stickers to it and preview the image before saving it. You are also able to add stickers to an image you upload yourself.
+	* In the gallery you can view your images or the images of other users. You can remove your images in your personal gallery if you wish to do so, under the profile section.
+	* In the gallery you can also like and comment other usersÕ images. This is only reserved for someone who is registered.
 Change user credentials:
 	* In the profile menu, users are able to modify their name, email address and passwords.
 Compatibility:
