@@ -18,7 +18,7 @@ Once downloaded, install software.
 Begin servers in the app interface if servers aren't running.
 Copy cloned Camagru repository to the apache2\htdocs folder, which is located in the installation path of MAMP/XAMPP.
 
-Open browser and go to URL http://localhost:/Camagru
+Open browser and go to URL http://localhost/Camagru
 The website should be up and running.
 
 To check that the site is running well, navigate to phpMyAdmin folder http://localhost/phpmyadmin. Once logged into the management system, go to databases and verify the creation of a Camagru database.
@@ -82,7 +82,7 @@ Running Camagru
 Start Web Server:
 
 * Launch MAMP/XAMPP, start all servers.
-* Open browser & navigate to http://localhost:8080/Camagru. You will find the landing page.
+* Open browser & navigate to http://localhost/Camagru. You will find the landing page.
 Create, verify and login to account:
 * Enter your credentials here, wait for verification email once complete. Once received verification email, click on the link and verify your account. Once verified, navigate to Login page.
 
@@ -107,4 +107,4 @@ Compatibility:
 
 Administration:
 
-* Admin users can access the backend of the site by visiting http://localhost:8080/phpmyadmin. There, users can enter the security credentials to gain access to the databases. Users are able to view all the databases, and in the Camagru database users will be able to see all active accounts on the site. The password is encrypted for security.
+* Admin users can access the backend of the site by visiting http://localhost/phpmyadmin. There, users can enter the security credentials to gain access to the databases. Users are able to view all the databases, and in the Camagru database users will be able to see all active accounts on the site. The password is encrypted for security.
