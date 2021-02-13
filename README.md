@@ -18,10 +18,10 @@ Once downloaded, install software.
 Begin servers in the app interface if servers aren't running.
 Copy cloned Camagru repository to the apache2\htdocs folder, which is located in the installation path of MAMP/XAMPP.
 
-Open browser and go to URL http://localhost:8080/Camagru
+Open browser and go to URL http://localhost:/Camagru
 The website should be up and running.
 
-To check that the site is running well, navigate to phpMyAdmin folder http://localhost:8080/phpmyadmin. Once logged into the management system, go to databases and verify the creation of a Camagru database.
+To check that the site is running well, navigate to phpMyAdmin folder http://localhost/phpmyadmin. Once logged into the management system, go to databases and verify the creation of a Camagru database.
 File Structure & Code Breakdown
 
 Database Management Systems (DBMS):
