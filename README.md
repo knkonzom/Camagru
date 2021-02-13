@@ -35,46 +35,49 @@ Client:
 
 File Structure:
 
-config:
-* database.php
-* setup.php
+    config:
+    * database.php
+    * setup.php
 
-functions:
-* php_user_functions.php
-* webcam.js
-gallery_images:
-* [images from gallery]
+    functions:
+    * php_user_functions.php
+    * webcam.js
 
-images:
-* [images]
+    gallery_images:
+    * [images from gallery]
 
-includes:
-* activate.inc.php
-* comments.inc.php
-* activate.inc.php
-* comments_notification.inc.php
-* delete_img.inc.php
-* forgotten_password.inc.php
-* image_save.inc.php
-* login.inc.php
-* signup.inc.php
-* update.inc.php
-stickers:
-* frame1.png Ð frame13.png
-root folder files:
-* author
-* comments.php
-* editor.php
-* footer.php
-* forgotten_password.php
-* gallery.php
-* header.php
-* index.php
-* profile.php
-* signup.php
-* style.css
-* update.php
-* update_password.php
+    images:
+    * [images]
+
+    includes:
+    * activate.inc.php
+    * comments.inc.php
+    * activate.inc.php
+    * comments_notification.inc.php
+    * delete_img.inc.php
+    * forgotten_password.inc.php
+    * image_save.inc.php
+    * login.inc.php
+    * signup.inc.php
+    * update.inc.php
+    stickers:
+    * frame1.png - frame13.png
+
+   root folder files:
+
+    * author
+    * comments.php
+    * editor.php
+    * footer.php
+    * forgotten_password.php
+    * gallery.php
+    * header.php
+    * index.php
+    * profile.php
+    * signup.php
+    * style.css
+    * update.php
+    * update_password.php
 
 
 
