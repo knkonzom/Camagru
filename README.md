@@ -35,6 +35,7 @@ Client:
 
 File Structure:
 
+<<<<<<< HEAD
 config:
 * database.php
 * setup.php
@@ -75,6 +76,51 @@ root folder files:
 * style.css
 * update.php
 * update_password.php
+=======
+    config:
+    * database.php
+    * setup.php
+
+    functions:
+    * php_user_functions.php
+    * webcam.js
+
+    gallery_images:
+    * [images from gallery]
+
+    images:
+    * [images]
+
+    includes:
+    * activate.inc.php
+    * comments.inc.php
+    * activate.inc.php
+    * comments_notification.inc.php
+    * delete_img.inc.php
+    * forgotten_password.inc.php
+    * image_save.inc.php
+    * login.inc.php
+    * signup.inc.php
+    * update.inc.php
+    stickers:
+    * frame1.png - frame13.png
+
+   root folder files:
+
+    * author
+    * comments.php
+    * editor.php
+    * footer.php
+    * forgotten_password.php
+    * gallery.php
+    * header.php
+    * index.php
+    * profile.php
+    * signup.php
+    * style.css
+    * update.php
+    * update_password.php
+>>>>>>> b525a9f60a56a5156ad7b1fbbe94356573fe2435
 
 
 Running Camagru
