@@ -84,6 +84,11 @@ File Structure:
 
 Running Camagru
 
+Check for:
+* PDO configuration in config/database.php
+* Check for presence of index.php
+* No frameworks - none were used for this project.
+
 Start Web Server:
 
 * Launch MAMP/XAMPP, start all servers.
