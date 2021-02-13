@@ -86,7 +86,11 @@ Start Web Server:
 Create, verify and login to account:
 * Enter your credentials here, wait for verification email once complete. Once received verification email, click on the link and verify your account. Once verified, navigate to Login page.
 
-Upload, capture & edit images:
+Guest:
+* Guest users are able to view public images but are not permitted to comment or like on images.
+* Users not verified are also able to login with their account however they are not able to access the editor page.
+
+Login, upload & capture, edit images:
 
 * Once logged in, you should be able to access the editor page where you will be able to either capture an image using the webcam or upload an image from the desktop.
 * Once an image is captured you are then able to add stickers to it and preview the image before saving it. You are also able to add stickers to an image you upload yourself.
